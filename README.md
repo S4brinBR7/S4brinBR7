@@ -1,0 +1,4 @@
+- # *BEM VINDO AO MEU PERFIL*.
+- # *Meu nome é Sabrina*.
+- # *Sou estudante*
+- # *Estou estudando linguagem javascript no Alura*.
